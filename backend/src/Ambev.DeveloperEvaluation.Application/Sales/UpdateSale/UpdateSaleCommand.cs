@@ -37,7 +37,7 @@ namespace Ambev.DeveloperEvaluation.Application.Sales.UpdateSale
         /// <summary>
         /// List of product items included in the sale.
         /// </summary>
-        public List<UpdateSaleItemDto> Products { get; set; } = new();
+        public List<UpdateSaleProductCommand> Products { get; set; } = new();
 
         /// <summary>
         /// Indicates whether the entire sale was cancelled.
@@ -48,7 +48,7 @@ namespace Ambev.DeveloperEvaluation.Application.Sales.UpdateSale
     /// <summary>
     /// DTO representing an individual product item within a sale.
     /// </summary>
-    public class UpdateSaleItemDto
+    public class UpdateSaleProductCommand
     {
         /// <summary>
         /// Unique identifier of the product item.

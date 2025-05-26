@@ -18,10 +18,11 @@ namespace Ambev.DeveloperEvaluation.WebApi.Features.Users.CreateUser
             CreateMap<UpdateSaleRequest, UpdateSaleCommand>();
             CreateMap<UpdateSaleResult, UpdateSaleResponse>();
             CreateMap<SaleItemDto, SaleItem>();
-            CreateMap<Sales.UpdateSale.UpdateSaleItemDto, Application.Sales.UpdateSale.UpdateSaleItemDto>();
+            CreateMap<UpdateSaleItemDto, UpdateSaleProductCommand>();
             CreateMap<Sale, UpdateSaleResponse>();
             CreateMap<Sale, UpdateSaleResult>();
-            CreateMap<Application.Sales.UpdateSale.UpdateSaleItemDto, SaleItem>();
+            CreateMap<UpdateSaleProductCommand, SaleItem>();
+            CreateMap<UpdateSaleItemDto, SaleItem>();
             CreateMap<UpdateSaleCommand, Sale>()
                 .ForMember(dest => dest.Id, opt => opt.Ignore())
                 .ForMember(dest => dest.Products, opt => opt.MapFrom(src => src.Products))

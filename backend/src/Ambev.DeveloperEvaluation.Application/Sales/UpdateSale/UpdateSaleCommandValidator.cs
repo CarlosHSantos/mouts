@@ -19,10 +19,10 @@ namespace Ambev.DeveloperEvaluation.Application.Sales.UpdateSale
     }
 
     /// <summary>
-    /// Validator for the <see cref="UpdateSaleItemDto"/> class.
+    /// Validator for the <see cref="UpdateSaleProductCommand"/> class.
     /// Validates each product item in the sale update request.
     /// </summary>
-    public class UpdateSaleItemDtoValidator : AbstractValidator<UpdateSaleItemDto>
+    public class UpdateSaleItemDtoValidator : AbstractValidator<UpdateSaleProductCommand>
     {
         public UpdateSaleItemDtoValidator()
         {
