@@ -12,20 +12,20 @@ public class PaginatedList<T> : List<T>
     public bool HasPrevious => CurrentPage > 1;
     public bool HasNext => CurrentPage < TotalPages;
 
-    public PaginatedList(List<T> items, int count, int pageNumber, int pageSize)
+    public PaginatedList(List<T> Products, int count, int pageNumber, int pageSize)
     {
         TotalCount = count;
         PageSize = pageSize;
         CurrentPage = pageNumber;
         TotalPages = (int)Math.Ceiling(count / (double)pageSize);
 
-        AddRange(items);
+        AddRange(Products);
     }
 
     public static async Task<PaginatedList<T>> CreateAsync(IQueryable<T> source, int pageNumber, int pageSize)
     {
         var count = await source.CountAsync();
-        var items = await source.Skip((pageNumber - 1) * pageSize).Take(pageSize).ToListAsync();
-        return new PaginatedList<T>(items, count, pageNumber, pageSize);
+        var Products = await source.Skip((pageNumber - 1) * pageSize).Take(pageSize).ToListAsync();
+        return new PaginatedList<T>(Products, count, pageNumber, pageSize);
     }
 }
