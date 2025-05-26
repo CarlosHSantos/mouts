@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\git\\mouts\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15961D91-452B-48E0-9871-2964E751B744}|tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj|c:\\git\\mouts\\backend\\tests\\ambev.developerevaluation.integration\\salescontroller\\salescontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15961D91-452B-48E0-9871-2964E751B744}|tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj|solutionrelative:tests\\ambev.developerevaluation.integration\\salescontroller\\salescontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.webapi\\features\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.application\\sales\\createsale\\createsaleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sales\\createsale\\createsaleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.webapi\\features\\sales\\createsale\\createsalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\createsale\\createsalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.webapi\\features\\sales\\createsale\\createsaleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\createsale\\createsaleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.application\\sales\\updatesale\\updatesaleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sales\\updatesale\\updatesaleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B19079B3-A9DD-4408-9ED2-899D735C66BF}|src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19079B3-A9DD-4408-9ED2-899D735C66BF}|src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj|solutionrelative:src\\ambev.developerevaluation.domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19079B3-A9DD-4408-9ED2-899D735C66BF}|src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19079B3-A9DD-4408-9ED2-899D735C66BF}|src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj|solutionrelative:src\\ambev.developerevaluation.domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.webapi\\features\\sales\\updatesale\\updatesalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\updatesale\\updatesalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.webapi\\features\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15961D91-452B-48E0-9871-2964E751B744}|tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj|c:\\git\\mouts\\backend\\tests\\ambev.developerevaluation.integration\\salescontroller\\salescontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15961D91-452B-48E0-9871-2964E751B744}|tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj|solutionrelative:tests\\ambev.developerevaluation.integration\\salescontroller\\salescontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.application\\sales\\updatesale\\updatesalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sales\\updatesale\\updatesalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.webapi\\features\\sales\\updatesale\\updatesaleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,18 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.webapi\\features\\sales\\getsales\\getallsalesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\getsales\\getallsalesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.webapi\\features\\sales\\createsale\\createsalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\createsale\\createsalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.webapi\\features\\sales\\updatesale\\updatesalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\updatesale\\updatesalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B19079B3-A9DD-4408-9ED2-899D735C66BF}|src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B19079B3-A9DD-4408-9ED2-899D735C66BF}|src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj|solutionrelative:src\\ambev.developerevaluation.domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.application\\sales\\createsale\\createsalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|c:\\git\\mouts\\backend\\tests\\ambev.developerevaluation.unit\\application\\testdata\\updatesalehandlertestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|solutionrelative:tests\\ambev.developerevaluation.unit\\application\\testdata\\updatesalehandlertestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B19079B3-A9DD-4408-9ED2-899D735C66BF}|src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj|c:\\git\\mouts\\backend\\src\\ambev.developerevaluation.domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B19079B3-A9DD-4408-9ED2-899D735C66BF}|src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj|solutionrelative:src\\ambev.developerevaluation.domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|c:\\git\\mouts\\backend\\tests\\ambev.developerevaluation.unit\\application\\deletesalehandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -154,67 +150,16 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Sale.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Sale.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Sale.cs",
               "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Sale.cs",
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Sale.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T16:39:41.813Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateSaleProfile.cs",
-              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleProfile.cs",
-              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleProfile.cs",
-              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleProfile.cs",
-              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T12:47:54.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateSaleProfile.cs",
-              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\UpdateSale\\UpdateSaleProfile.cs",
-              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\UpdateSale\\UpdateSaleProfile.cs",
-              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\UpdateSale\\UpdateSaleProfile.cs",
-              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\UpdateSale\\UpdateSaleProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T12:47:11.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateUserProfile.cs",
-              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserProfile.cs",
-              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserProfile.cs",
-              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserProfile.cs",
-              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T12:46:32.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateUserProfile.cs",
-              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\CreateUser\\CreateUserProfile.cs",
-              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\CreateUser\\CreateUserProfile.cs",
-              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\CreateUser\\CreateUserProfile.cs",
-              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\CreateUser\\CreateUserProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T12:46:17.829Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -227,7 +172,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
+              "Title": "CreateUserProfile.cs",
+              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\CreateUser\\CreateUserProfile.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\CreateUser\\CreateUserProfile.cs",
+              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\CreateUser\\CreateUserProfile.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Users\\CreateUser\\CreateUserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:46:17.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CreateSaleProfile.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\CreateSale\\CreateSaleProfile.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\CreateSale\\CreateSaleProfile.cs",
@@ -240,38 +198,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DeleteSaleRequest.cs",
-              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\DeleteSale\\DeleteSaleRequest.cs",
-              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\DeleteSale\\DeleteSaleRequest.cs",
-              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\DeleteSale\\DeleteSaleRequest.cs",
-              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\DeleteSale\\DeleteSaleRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:28:21.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "SalesControllerIntegrationTests.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\tests\\Ambev.DeveloperEvaluation.Integration\\SalesController\\SalesControllerIntegrationTests.cs",
               "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Integration\\SalesController\\SalesControllerIntegrationTests.cs",
               "ToolTip": "C:\\git\\mouts\\backend\\tests\\Ambev.DeveloperEvaluation.Integration\\SalesController\\SalesControllerIntegrationTests.cs",
               "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Integration\\SalesController\\SalesControllerIntegrationTests.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCMAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwDwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T11:27:26.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "SalesController.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\SalesController.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\SalesController.cs",
               "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\SalesController.cs",
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\SalesController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAkwDEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwGAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T11:26:22.854Z",
               "EditorCaption": ""
@@ -286,11 +232,90 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:02:34.026Z"
+              "WhenOpened": "2025-05-26T11:02:34.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "SaleItem.cs",
+              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Entities\\SaleItem.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Domain\\Entities\\SaleItem.cs",
+              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Entities\\SaleItem.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Domain\\Entities\\SaleItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswDMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:51:55.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSaleRequest.cs",
+              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\CreateSale\\CreateSaleRequest.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\CreateSale\\CreateSaleRequest.cs",
+              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\CreateSale\\CreateSaleRequest.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\CreateSale\\CreateSaleRequest.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:27:53.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateSaleRequest.cs",
+              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\UpdateSale\\UpdateSaleRequest.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\UpdateSale\\UpdateSaleRequest.cs",
+              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\UpdateSale\\UpdateSaleRequest.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\UpdateSale\\UpdateSaleRequest.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwvxUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:28:41.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateUserProfile.cs",
+              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserProfile.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserProfile.cs",
+              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserProfile.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Users\\CreateUser\\CreateUserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:46:32.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateSaleCommand.cs",
+              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\UpdateSale\\UpdateSaleCommand.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\UpdateSale\\UpdateSaleCommand.cs",
+              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\UpdateSale\\UpdateSaleCommand.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\UpdateSale\\UpdateSaleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:51:05.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteSaleRequest.cs",
+              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\DeleteSale\\DeleteSaleRequest.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\DeleteSale\\DeleteSaleRequest.cs",
+              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\DeleteSale\\DeleteSaleRequest.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\DeleteSale\\DeleteSaleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:28:21.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UpdateSaleProfile.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\UpdateSale\\UpdateSaleProfile.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\UpdateSale\\UpdateSaleProfile.cs",
@@ -311,23 +336,12 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetSale\\GetSaleRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:28:30.047Z"
+              "WhenOpened": "2025-05-26T11:28:30.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateSaleRequest.cs",
-              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\CreateSale\\CreateSaleRequest.cs",
-              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\CreateSale\\CreateSaleRequest.cs",
-              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\CreateSale\\CreateSaleRequest.cs",
-              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\CreateSale\\CreateSaleRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:27:53.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "GetAllSalesRequest.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetSales\\GetAllSalesRequest.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetSales\\GetAllSalesRequest.cs",
@@ -335,19 +349,8 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetSales\\GetAllSalesRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:28:37.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateSaleRequest.cs",
-              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\UpdateSale\\UpdateSaleRequest.cs",
-              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\UpdateSale\\UpdateSaleRequest.cs",
-              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\UpdateSale\\UpdateSaleRequest.cs",
-              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\UpdateSale\\UpdateSaleRequest.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAgwE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:28:41.708Z"
+              "WhenOpened": "2025-05-26T11:28:37.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -359,7 +362,8 @@
               "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\UpdateSaleHandlerTests.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwB4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:06:26.956Z"
+              "WhenOpened": "2025-05-26T11:06:26.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -371,7 +375,8 @@
               "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\UpdateSaleHandlerTestData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:05:55.297Z"
+              "WhenOpened": "2025-05-26T11:05:55.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -383,7 +388,8 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\UpdateSale\\UpdateSaleCommandValidator.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:05:26.517Z"
+              "WhenOpened": "2025-05-26T11:05:26.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -395,23 +401,12 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\UpdateSale\\UpdateSaleHandler.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAIwEwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:05:07.483Z"
+              "WhenOpened": "2025-05-26T11:05:07.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SaleItem.cs",
-              "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Entities\\SaleItem.cs",
-              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Domain\\Entities\\SaleItem.cs",
-              "ToolTip": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Entities\\SaleItem.cs",
-              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Domain\\Entities\\SaleItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:51:55.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "DeleteSaleCommand.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\DeleteSale\\DeleteSaleCommand.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\DeleteSale\\DeleteSaleCommand.cs",
@@ -419,11 +414,12 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\DeleteSale\\DeleteSaleCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:07:14.668Z"
+              "WhenOpened": "2025-05-26T11:07:14.668Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "DeleteSaleResponse.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\DeleteSale\\DeleteSaleResponse.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\DeleteSale\\DeleteSaleResponse.cs",
@@ -431,11 +427,12 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\DeleteSale\\DeleteSaleResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:07:18.553Z"
+              "WhenOpened": "2025-05-26T11:07:18.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "DeleteSaleValidator.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\DeleteSale\\DeleteSaleValidator.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\DeleteSale\\DeleteSaleValidator.cs",
@@ -443,11 +440,12 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\DeleteSale\\DeleteSaleValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:07:20.666Z"
+              "WhenOpened": "2025-05-26T11:07:20.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "DeleteSaleHandlerTests.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\DeleteSaleHandlerTests.cs",
               "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\DeleteSaleHandlerTests.cs",
@@ -455,11 +453,12 @@
               "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\DeleteSaleHandlerTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:08:24.607Z"
+              "WhenOpened": "2025-05-26T11:08:24.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "DeleteSaleHandler.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\DeleteSale\\DeleteSaleHandler.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\DeleteSale\\DeleteSaleHandler.cs",
@@ -467,11 +466,12 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\DeleteSale\\DeleteSaleHandler.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAwwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:05:15.086Z"
+              "WhenOpened": "2025-05-26T11:05:15.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "CreateSaleHandlerTestData.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateSaleHandlerTestData.cs",
               "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateSaleHandlerTestData.cs",
@@ -479,11 +479,12 @@
               "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateSaleHandlerTestData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:03:07.947Z"
+              "WhenOpened": "2025-05-26T11:03:07.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "CreateSaleCommandValidator.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleCommandValidator.cs",
@@ -491,11 +492,12 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleCommandValidator.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAwwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:02:27.374Z"
+              "WhenOpened": "2025-05-26T11:02:27.374Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "CreateSaleHandler.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleHandler.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleHandler.cs",
@@ -503,11 +505,12 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleHandler.cs",
               "ViewState": "AgIAACkAAAAAAAAAAADwv0sAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:02:20.561Z"
+              "WhenOpened": "2025-05-26T11:02:20.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "CreateSaleHandlerTests.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateSaleHandlerTests.cs",
               "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateSaleHandlerTests.cs",
@@ -515,11 +518,12 @@
               "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateSaleHandlerTests.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAwwBIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:01:47.119Z"
+              "WhenOpened": "2025-05-26T11:01:47.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "CreateUserHandlerTests.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateUserHandlerTests.cs",
               "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateUserHandlerTests.cs",
@@ -527,11 +531,12 @@
               "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateUserHandlerTests.cs",
               "ViewState": "AgIAAIEAAAAAAAAAAADwv5sAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:01:19.703Z"
+              "WhenOpened": "2025-05-26T11:01:19.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "UserValidatorTests.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Domain\\Validation\\UserValidatorTests.cs",
               "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Domain\\Validation\\UserValidatorTests.cs",
@@ -539,11 +544,12 @@
               "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Domain\\Validation\\UserValidatorTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:59:38.25Z"
+              "WhenOpened": "2025-05-26T10:59:38.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "UserTestData.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Domain\\Entities\\TestData\\UserTestData.cs",
               "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Domain\\Entities\\TestData\\UserTestData.cs",
@@ -551,35 +557,38 @@
               "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Domain\\Entities\\TestData\\UserTestData.cs",
               "ViewState": "AgIAAGEAAAAAAAAAAAAowI4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:58:00.522Z"
+              "WhenOpened": "2025-05-26T10:58:00.522Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "CreateUserHandlerTestData.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateUserHandlerTestData.cs",
               "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateUserHandlerTestData.cs",
               "ToolTip": "C:\\git\\mouts\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateUserHandlerTestData.cs",
               "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateUserHandlerTestData.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:52:59.845Z"
+              "WhenOpened": "2025-05-26T10:52:59.845Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "SaleTestData.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Domain\\Entities\\TestData\\SaleTestData.cs",
               "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Domain\\Entities\\TestData\\SaleTestData.cs",
               "ToolTip": "C:\\git\\mouts\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Domain\\Entities\\TestData\\SaleTestData.cs",
               "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Domain\\Entities\\TestData\\SaleTestData.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:58:45.57Z"
+              "WhenOpened": "2025-05-26T10:58:45.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "SaleTests.cs",
               "DocumentMoniker": "C:\\git\\mouts\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Domain\\Entities\\SaleTests.cs",
               "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Domain\\Entities\\SaleTests.cs",
@@ -587,7 +596,8 @@
               "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Domain\\Entities\\SaleTests.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:54:38.843Z"
+              "WhenOpened": "2025-05-26T10:54:38.843Z",
+              "EditorCaption": ""
             }
           ]
         },
